@@ -7,7 +7,7 @@
 <h3 align="left">Electronic and Telecommunications</h3>
 
 ---
-<table>
+<table width="800px">
 <tr>
 <td valign="top" width="20%">
 Hi
