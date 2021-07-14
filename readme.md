@@ -1,11 +1,11 @@
 ![Top banner](/top_banner.png)
 
-<h1 align="left">Duc Luu Van :vietnam:</h1>
+<h1 align="left">Duc Luu Van :vietnam:</h1> ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
+
 <h3 align="left">Electronic and Telecommunications</h3>
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
-![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
 
 ### My Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
