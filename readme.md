@@ -23,6 +23,10 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+#### Adobe
+![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![Adobe Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+![Adobe Premiere](https://aleen42.github.io/badges/src/premiere.svg)
 
 <a href="https://linkedin.com/in/duc-luuvan-pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="duc-luuvan-pro" height="20" width="20" /></a>
 <a href="https://fb.com/duc.luuvan.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duc.luuvan.pro" height="20" width="20" /></a>
