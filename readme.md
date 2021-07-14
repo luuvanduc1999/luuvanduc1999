@@ -1,4 +1,4 @@
-![Easy Frontend banner](/top_banner.png)
+![Top banner](/top_banner.png)
 
 <h1 align="left">Duc Luu Van :vietnam:</h1>
 <h3 align="left">Electronic and Telecommunications</h3>
@@ -39,6 +39,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <a href="https://linkedin.com/in/duc-luuvan-pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="duc-luuvan-pro" height="20" width="20" /></a>
 <a href="https://fb.com/duc.luuvan.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duc.luuvan.pro" height="20" width="20" /></a>
