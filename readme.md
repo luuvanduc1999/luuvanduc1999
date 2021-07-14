@@ -37,7 +37,7 @@
 
 #### Others
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-100000?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-100000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 #### Adobe
 ![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
