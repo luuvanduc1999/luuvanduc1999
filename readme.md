@@ -2,6 +2,7 @@
 
 <h1 align="left">Duc Luu Van :vietnam:</h1>
 <h3 align="left">Electronic and Telecommunications</h3>
+---
 
 ### My Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
