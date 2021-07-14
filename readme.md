@@ -9,15 +9,14 @@
 ---
 <table width="800px">
 <tr>
-<td valign="top" width="20%">
-Hi
+<td valign="top" width="30%">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999) 
 </td>
-<td valign="top" width="80%">
-Hi
+<td valign="top" width="70%">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
 </td>
 </tr>
 </table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
 
 ### My Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
