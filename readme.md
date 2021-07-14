@@ -2,7 +2,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duc.luuvan.pro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duc.luuvan.pro/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-luuvan-pro/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-luuvan-pro/)
+[![Web](https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=aseprite&logoColor=white)](https://luuvanduc.work/)
 
 https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=website&logoColor=white
 
