@@ -1,9 +1,12 @@
 ![Top banner](/top_banner.png)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duc.luuvan.pro/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-luuvan-pro/)
+
 
 <h1 align="left">Duc Luu Van :vietnam:</h1> 
 <h3 align="left">Electronic and Telecommunications</h3>
 
-  ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=for-the-badge)
 
 
 ---
@@ -58,6 +61,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href="https://linkedin.com/in/duc-luuvan-pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="duc-luuvan-pro" height="20" width="20" /></a>
-<a href="https://fb.com/duc.luuvan.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duc.luuvan.pro" height="20" width="20" /></a>
-<a href="https://instagram.com/duc.luuvan.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="duc.luuvan.pro" height="20" width="20" /></a>
+
