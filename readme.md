@@ -4,7 +4,7 @@
 <h3 align="left">Electronic and Telecommunications</h3>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999) ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
 
 
 ### My Tech Stack
