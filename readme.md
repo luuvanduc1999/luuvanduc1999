@@ -1,6 +1,8 @@
 ![Top banner](/top_banner.png)
 
-<h1 align="left">Duc Luu Van :vietnam:</h1> ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
+<h1 align="left">Duc Luu Van :vietnam:</h1> 
+
+![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
 
 <h3 align="left">Electronic and Telecommunications</h3>
 
