@@ -11,7 +11,7 @@
 
 
 ---
-<table width="100%" valign="center">
+<table width="100%">
 
 <td valign="top" width="40%">
   
