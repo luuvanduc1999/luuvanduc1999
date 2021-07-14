@@ -18,6 +18,7 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,10 +39,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-100000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
-#### Adobe
-![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Adobe Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![Adobe Premiere](https://aleen42.github.io/badges/src/premiere.svg)
+
 
 <a href="https://linkedin.com/in/duc-luuvan-pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="duc-luuvan-pro" height="20" width="20" /></a>
 <a href="https://fb.com/duc.luuvan.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="duc.luuvan.pro" height="20" width="20" /></a>
