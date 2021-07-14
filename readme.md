@@ -2,22 +2,18 @@
 
 <h1 align="left">Duc Luu Van :vietnam:</h1> 
 <h3 align="left">Electronic and Telecommunications</h3>
+  ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
+
 
 ---
 <table width="800px">
-<tr>
-<td valign="center">
-  
-  ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=flat-square)
 
-<tr>
-<tr>
-<td valign="top" width="30%">
+<td valign="top" width="40%">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999) 
   
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="60%">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
   
