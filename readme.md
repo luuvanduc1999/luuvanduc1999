@@ -8,7 +8,6 @@
 <h1 align="left">Duc Luu Van :vietnam:</h1> 
 <h3 align="left">Electronic and Telecommunications</h3>
 
-  ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=for-the-badge)
 
 
 ---
@@ -23,6 +22,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
   
+   ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=for-the-badge)
+
 </td>
 </tr>
 </table>
