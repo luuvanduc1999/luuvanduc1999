@@ -18,7 +18,7 @@
 
 <td valign="top" width="40%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999&label=PROFILE+VIEWS) 
   
 </td>
 <td valign="top" width="60%">
