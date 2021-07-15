@@ -5,7 +5,7 @@
    <a href="https://www.instagram.com/duc.luuvan.pro/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/duc-luuvan-pro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
    <a href="https://luuvanduc.work/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=aseprite&logoColor=white"></a>
-
+   <a href="#" target="_blank"><img alt="Portfolio" src="https://enicmjxyrlb3xix.m.pipedream.net"></a>
 </p>
 
 <h1 align="left">Duc Luu Van :vietnam:</h1> 
@@ -23,8 +23,7 @@
 <td valign="top" width="60%">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
-  
-   ![](https://enicmjxyrlb3xix.m.pipedream.net)
+
 
 </td>
 </tr>
