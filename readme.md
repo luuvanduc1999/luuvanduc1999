@@ -24,7 +24,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuvanduc1999&theme=vue-dark&show_icons=true)
   
-   ![](https://komarev.com/ghpvc/?username=luuvanduc1999&style=for-the-badge)
+   ![](https://enicmjxyrlb3xix.m.pipedream.net)
 
 </td>
 </tr>
