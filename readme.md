@@ -1,6 +1,6 @@
 ![Top banner](/top_banner.png)
 
-<p align="center">
+<p align="center" style="background-color: black;">
    <a href="https://www.facebook.com/duc.luuvan.pro/"  target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
    <a href="https://www.instagram.com/duc.luuvan.pro/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/duc-luuvan-pro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
