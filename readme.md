@@ -29,14 +29,14 @@
 </tr>
 </table>
 
-### My Tech Stack
+## My Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,12 +45,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
 
-#### Backend
+### Backend
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59?style=for-the-badge&logo=express&logoColor=whitee)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-#### Databases and cloud hosting
+### Databases and cloud hosting
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Mongdb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)
@@ -58,7 +58,7 @@
 ![GC](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-#### Others
+### Others
 ![Github](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
@@ -67,7 +67,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-#### Adobe software
+### Adobe software
 ![Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
 ![Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FA6608?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff)
 ![Premiere](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=adobepremierepro&logoColor=ffffff)
