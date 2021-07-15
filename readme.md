@@ -11,6 +11,8 @@
 <h1 align="left">Duc Luu Van :vietnam:</h1> 
 <h3 align="left">Electronic and Telecommunications</h3>
 
+    ![counter](https://enicmjxyrlb3xix.m.pipedream.net)
+
 
 
 ---
