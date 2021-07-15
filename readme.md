@@ -1,12 +1,10 @@
 ![Top banner](/top_banner.png)
 
 <p align="center">
-
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duc.luuvan.pro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duc.luuvan.pro/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-luuvan-pro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=aseprite&logoColor=white)](https://luuvanduc.work/)
+   <a href="https://www.facebook.com/duc.luuvan.pro/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   <a href="https://www.instagram.com/duc.luuvan.pro/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/duc-luuvan-pro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://luuvanduc.work/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=aseprite&logoColor=white"></a>
 
 </p>
 
