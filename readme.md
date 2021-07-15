@@ -72,4 +72,4 @@
 ![Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FA6608?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff)
 ![Premiere](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=adobepremierepro&logoColor=ffffff)
 
-<img alt="gif" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
+<img alt="gif" align="center" src="/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif"> 
