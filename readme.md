@@ -8,7 +8,7 @@
    <a href="#" target="_blank"><img alt="Portfolio" src="https://enicmjxyrlb3xix.m.pipedream.net"></a>
 </p>
 
-<h1 align="center">Duc Luu Van :vietnam:</h1> 
+<h1 align="center"><img alt="Portfolio" src="/vietnam.png"> Duc Luu Van <img alt="Portfolio" src="/vietnam.png"></h1> 
 <h3 align="center">Electronic and Telecommunications</h3>
 
 
