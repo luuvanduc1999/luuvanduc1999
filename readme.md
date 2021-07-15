@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center"><img alt="Portfolio" src="/vietnam (1).png"> Duc Luu Van <img alt="Portfolio" src="/vietnam (1).png"></h1> 
-<h3 align="center">Electronic and Telecommunications</h3>
+<h3 align="center"><img alt="Portfolio" src="/circuit.png"> Electronic and Telecommunications <img alt="Portfolio" src="/audio-waves.png"></h3>
 
 
 ---
