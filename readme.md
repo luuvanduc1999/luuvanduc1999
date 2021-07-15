@@ -11,9 +11,6 @@
 <h1 align="left">Duc Luu Van :vietnam:</h1> 
 <h3 align="left">Electronic and Telecommunications</h3>
 
-    ![counter](https://enicmjxyrlb3xix.m.pipedream.net)
-
-
 
 ---
 <table width="100%">
@@ -21,7 +18,7 @@
 <td valign="top" width="40%">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanduc1999&label=PROFILE+VIEWS) 
-  
+
 </td>
 <td valign="top" width="60%">
   
@@ -42,6 +39,7 @@
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![counter](https://enicmjxyrlb3xix.m.pipedream.net)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
