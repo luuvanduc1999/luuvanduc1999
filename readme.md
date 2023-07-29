@@ -5,7 +5,7 @@
    <a href="https://www.instagram.com/duc.luuvan.pro/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/duc-luuvan-pro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
     <a href="https://steamcommunity.com/id/voldemortvn/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" ></a>
-   <a href="https://luuvanduc.work/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=aseprite&logoColor=white"></a>
+   <a href="https://dustinluu.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=aseprite&logoColor=white"></a>
    <a href="#" target="_blank"><img alt="View" src="https://enicmjxyrlb3xix.m.pipedream.net"></a>
 </p>
 
